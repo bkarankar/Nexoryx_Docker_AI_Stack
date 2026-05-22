@@ -1,0 +1,5 @@
+
+site_name: Nexoryx_Docker_AI_Stack
+nav:
+  - Home: README.md
+  - Architecture: docs/architecture.md

@@ -1,12 +1,3 @@
-# Architecture
+# Nexoryx_Docker_AI_Stack Architecture
 
-Users -> NGINX -> Open WebUI -> Ollama
-
-Backend:
-- PostgreSQL
-- Redis
-- Qdrant
-
-Monitoring:
-- Prometheus
-- Grafana
+Production-grade infrastructure automation.
